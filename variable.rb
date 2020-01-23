@@ -1,1 +1,1 @@
- variabl
+greeting = "hello world"
